@@ -16,9 +16,9 @@
   ],
   "tokens": [
     {
-      "name": "1337",
-      "address": "0x35872fea6A4843fACBCDbCe99e3B69596A3680b8",
-      "symbol": "1337",
+      "name": "Test Token",
+      "address": "0xdA9BF94e211a209D5DD49D4D7B8C77B4432DBbdA",
+      "symbol": "TTK",
       "tags": [
         "roll"
       ],
@@ -27,9 +27,9 @@
       "logoURI": "https://roll-token.s3.amazonaws.com/1337/fd5f947e-302b-40af-9aa5-fd134e722a21"
     },
     {
-      "name": "AndjelaNadja",
-      "address": "0x8BDfaE0F83a03F5fa98B0bDf339F56df3C9F8BD5",
-      "symbol": "AIN",
+      "name": "Test Token 2",
+      "address": "0xdA9BF94e211a209D5DD49D4D7B8C77B4432DBbdA",
+      "symbol": "TTK2",
       "tags": [
         "roll"
       ],
