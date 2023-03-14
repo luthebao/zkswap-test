@@ -5,7 +5,7 @@
   "version": {
     "major": 5,
     "minor": 2,
-    "patch": 1
+    "patch": 2
   },
   "logoURI": "https://tryroll.com/wp-content/uploads/2018/11/cropped-icon-270x270.png",
   "keywords": [
@@ -26,16 +26,6 @@
       "chainId": 280,
       "logoURI": "https://roll-token.s3.amazonaws.com/1337/fd5f947e-302b-40af-9aa5-fd134e722a21"
     },
-    {
-      "name": "Test Token 2",
-      "address": "0xdA9BF94e211a209D5DD49D4D7B8C77B4432DBbdA",
-      "symbol": "TTK2",
-      "tags": [
-        "roll"
-      ],
-      "decimals": 18,
-      "chainId": 280,
-      "logoURI": "https://roll-token.s3.amazonaws.com/AIN/b588d1ee-ea2f-47fe-a591-94f12622bc63"
-    }
+    
   ]
 }
